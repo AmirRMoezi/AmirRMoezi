@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <!--
 **AmirRMoezi/AmirRMoezi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+## Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![MasterHead](https://github.com/AmirRMoezi/AmirRMoezi/blob/main/banner.png)](https://github.com/AmirRMoez)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirRMoezi&show_icons=true&theme=radical)
