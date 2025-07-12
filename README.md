@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![MasterHead](https://github.com/AmirRMoezi/AmirRMoezi/blob/main/banner.png)](https://github.com/AmirRMoez)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirRMoezi&show_icons=true&theme=radical)
+
+![](https://komarev.com/ghpvc/?username=AmirRMoezi)
